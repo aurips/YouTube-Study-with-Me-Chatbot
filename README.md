@@ -174,7 +174,7 @@ AuriBot creates these tables automatically on first run — no manual migrations
 ### 2. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aurips/YouTube-Study-with-Me-Chatbot.git
 cd auribot
 python -m venv venv
 
