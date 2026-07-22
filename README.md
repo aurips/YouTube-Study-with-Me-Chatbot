@@ -373,7 +373,23 @@ often.
 
 ## 📄 License
 
-Add your preferred license here (MIT, Apache 2.0, etc).
+This project is licensed under the **Auritra Non-Commercial License (ANCL) v1.0**.
+
+### ✅ You may
+
+* Use this project for personal, educational, and research purposes.
+* Study, stream, or share this project for others to use.
+* Modify the source code.
+* Create your own projects based on this code.
+* Share and distribute your modified versions.
+
+### ❗ Conditions
+
+* You **must** include this license in any copies or derivative works.
+* You **may not** use this project or its derivatives for commercial purposes or sell them without written permission.
+
+If you'd like to use this project commercially, please contact **Auritra** for permission.
+
 
 ---
 <p align="center">
