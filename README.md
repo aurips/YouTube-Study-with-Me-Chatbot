@@ -13,7 +13,7 @@ and giving mods and the owner tools to keep the stream running smoothly.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-async-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![YouTube Data API](https://img.shields.io/badge/YouTube-Data%20API%20v3-FF0000?style=flat&logo=youtube&logoColor=white)
 ![Groq](https://img.shields.io/badge/AI-Groq%20%2F%20Llama%203.3-F55036?style=flat)
-![Status](https://img.shields.io/badge/status-public-e8735f?style=flat)
+![Status](https://img.shields.io/badge/status-public-dafbe1?style=flat)
 ![License](https://img.shields.io/badge/license-ANCL%20v1.0-4CAF50?style=flat)
 
 </div>
